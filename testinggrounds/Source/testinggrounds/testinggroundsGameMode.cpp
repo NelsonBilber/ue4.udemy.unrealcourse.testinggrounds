@@ -3,7 +3,7 @@
 #include "testinggrounds.h"
 #include "testinggroundsGameMode.h"
 #include "testinggroundsHUD.h"
-#include "testinggroundsCharacter.h"
+#include "Player/FirstPersonCharacter.h"
 
 AtestinggroundsGameMode::AtestinggroundsGameMode()
 	: Super()
